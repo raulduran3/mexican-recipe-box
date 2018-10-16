@@ -1,0 +1,12 @@
+#button
+  text-align: center
+
+#container
+  background-color: #9ad3de
+  margin: 20px auto
+  max-width: 800px
+  min-width: 300px
+  width: 55%
+
+body
+  background: #89bdd3
